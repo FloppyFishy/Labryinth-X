@@ -1387,7 +1387,18 @@ MonoBehaviour:
   ultimateOverlayFrames: []
   uo_toEnemy: 0
   uo_both: 0
-  ultimateUnderlayFrames: []
+  ultimateUnderlayFrames:
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
+  - {fileID: -3539147530897924971, guid: 8f36ba966d4dbac4bb12031fdc9400bd, type: 3}
   uu_toEnemy: 0
   uu_both: 0
   uBigEffectToPlay: {fileID: 7400000, guid: b26d5328b08dfc742a77db1aecbaf77d, type: 2}
